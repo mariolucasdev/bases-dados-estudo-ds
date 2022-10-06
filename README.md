@@ -1,4 +1,4 @@
-# bases-dados-estudo-ds
+# Base Para Estudo - Data Science
 
 ### 𝐈𝐍𝐄𝐏:
 https://lnkd.in/da68Mws
